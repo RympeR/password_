@@ -1,8 +1,7 @@
 import sqlite3
 from interface import run
 """
-	TODO: 3. more usable interface
-		  7. find the way to make installer
+	TODO: 7. find the way to make installer
 		  8. icon   
 		  9. android version
 		  10. upgrade password generator ???
